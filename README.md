@@ -6,8 +6,8 @@
     :school: M.S. in data science from the Johns Hopkins Univ.<br>
     :school_satchel: B.S. in statistics from the Univ. of California, Davis<br>
     :email:	qzyu999@gmail.com <br>
-    :computer: GitHub page: https://qzyu999.github.io <br>
-    :pencil: Resume: https://qzyu999.github.io/Resume.pdf <br>
+    :computer: GitHub page: https://qzyu888.github.io <br>
+    :pencil: Resume: https://qzyu888.github.io/Resume.pdf <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/jaredvyu/ <br>
     :star: Hobbies: weight lifting, writing, 学中文 <br>
   </samp>
