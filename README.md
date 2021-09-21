@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hello, I'm Jared Yu! 👋<br>
-    :school: Online M.S. student at Johns Hopkins Univ. studying data science<br>
+    :school: M.S. in data science from the Johns Hopkins Univ.<br>
     :school_satchel: B.S. in statistics from the Univ. of California, Davis<br>
     :email:	qzyu999@gmail.com <br>
     :computer: GitHub page: https://qzyu999.github.io <br>
