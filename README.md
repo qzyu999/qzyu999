@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.deusm.com/informationweek/July20/datascience-algorithm-nobeastsofierce-adobe-cp.jpg">
+  <img src="https://images.unsplash.com/photo-1655635643532-fa9ba2648cbe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2664&q=80">
   <br>
   <samp>
     Hello, I'm Jared Yu! 👋<br>
