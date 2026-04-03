@@ -8,6 +8,5 @@
     :email:	qzyu999@gmail.com <br>
     :computer: GitHub page: https://qzyu999.github.io <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/jaredvyu/ <br>
-    :star: Hobbies: weight lifting, writing, 学中文 <br>
   </samp>
 </p>
